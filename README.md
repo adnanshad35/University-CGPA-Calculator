@@ -1,16 +1,91 @@
-# calc_cg
+# 🎓 CGPA Calculator
 
-A new Flutter project.
+A simple and user-friendly **University CGPA Calculator** built with **Flutter**.
 
-## Getting Started
+This application helps university students calculate their CGPA based on course grades and credit hours.
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+* Calculate semester CGPA
+* Calculate overall CGPA
+* Add multiple courses
+* Enter course credit hours
+* Select grades easily
+* Simple and user-friendly interface
+* Works on Android and other supported Flutter platforms
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Flutter**
+* **Dart**
+* Material Design
+
+## 📂 Project Structure
+
+```text
+calc_cg/
+├── android/
+├── ios/
+├── lib/
+├── linux/
+├── macos/
+├── test/
+├── web/
+├── windows/
+├── pubspec.yaml
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+* Flutter SDK
+* Dart SDK
+* Android Studio or VS Code
+* An Android emulator or physical Android device
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/adnanshad35/calc_cg_app.git
+```
+
+Go to the project directory:
+
+```bash
+cd calc_cg_app
+```
+
+Get the required dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## 🎥 App Demonstration
+
+A video demonstration of the application will be added here.
+
+**YouTube:** Coming soon
+
+<!-- Add the YouTube link here later -->
+
+## 📸 Screenshots
+
+Screenshots of the application can be added here.
+
+## 🎯 Purpose
+
+The main purpose of this project is to create a practical CGPA calculation tool for university students while gaining hands-on experience in **Flutter and Dart application development**.
+
